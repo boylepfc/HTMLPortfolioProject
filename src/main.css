@@ -2,11 +2,21 @@ body {
    background-color: #eaecee;
    font-family: Helvetica; cursive; serif;
 
+
  }
 
   .header {
   text-align: center;
   font-size: 40px;
+  line-height: 36px;
+
+}
+
+.header img {
+  display: block;
+  margin: 0 auto 0 auto;
+  height: 300px;
+  border: solid black;
 
 }
 
@@ -17,6 +27,15 @@ body {
 
 }
 
+
 .skills {
   margin-left: inherit;
+  font-size: 24px;
+  font-weight: 200px;
+}
+
+.contact {
+  background-color: #d4e6f1;
+  font-size: 22px;
+  text-align: right;
 }
